@@ -1,9 +1,9 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://opencart.nextcloudservices.com/');
+define('HTTP_SERVER', 'http://YOURDOMAIN/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://opencart.nextcloudservices.com/');
+define('HTTPS_SERVER', 'http://YOURDOMAIN/');
 
 // DIR
 define('DIR_APPLICATION', '/var/www/html/catalog/');
