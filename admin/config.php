@@ -1,11 +1,11 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://opencart.nextcloudservices.com/admin/');
-define('HTTP_CATALOG', 'http://opencart.nextcloudservices.com/');
+define('HTTP_SERVER', 'http://YOURDOMAIN/admin/');
+define('HTTP_CATALOG', 'http://YOURDOMAIN/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://opencart.nextcloudservices.com/admin/');
-define('HTTPS_CATALOG', 'http://opencart.nextcloudservices.com/');
+define('HTTPS_SERVER', 'http://YOURDOMAIN/admin/');
+define('HTTPS_CATALOG', 'http://YOURDOMAIN/');
 
 // DIR
 define('DIR_APPLICATION', '/var/www/html/admin/');
