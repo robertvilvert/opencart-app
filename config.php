@@ -19,10 +19,10 @@ define('DIR_MODIFICATION', '/var/www/html/system/storage/modification/');
 define('DIR_UPLOAD', '/var/www/html/system/storage/upload/');
 
 // DB
-define('DB_DRIVER', 'mysqli');
-define('DB_HOSTNAME', 'DBHOST');
-define('DB_USERNAME', 'DBUSER');
-define('DB_PASSWORD', 'DBPASS');
-define('DB_DATABASE', 'DBNAME');
-define('DB_PORT', '3306');
-define('DB_PREFIX', 'oc_');
+	define('DB_DRIVER', 'mysqli');
+	define('DB_HOSTNAME', 'docker.cmmcfluxl1um.sa-east-1.rds.amazonaws.com');
+	define('DB_USERNAME', 'docker');
+	define('DB_PASSWORD', 'DBPASS');
+	define('DB_DATABASE', 'OPENCART');
+	define('DB_PORT', '3306');
+	define('DB_PREFIX', 'oc_');
