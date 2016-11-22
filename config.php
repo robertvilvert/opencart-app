@@ -19,4 +19,4 @@ define('DIR_MODIFICATION', '/var/www/html/system/storage/modification/');
 define('DIR_UPLOAD', '/var/www/html/system/storage/upload/');
 
 // DB
-	include_once '/var/www/html/nextdb.php';
+	 include_once ('/var/www/html/nextdb.php');
