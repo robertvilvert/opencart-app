@@ -22,5 +22,5 @@ define('DIR_UPLOAD', '/var/www/html/system/storage/upload/');
 define('DIR_CATALOG', '/var/www/html/catalog/');
 
 // DB
-  include_once ('../nextdb.php');
+
 
