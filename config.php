@@ -1,9 +1,9 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://YOURDOMAIN/');
+define('HTTP_SERVER', 'http://loja.nextcloudservices.com/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://YOURDOMAIN/');
+define('HTTPS_SERVER', 'http://loja.nextcloudservices.com/');
 
 // DIR
 define('DIR_APPLICATION', '/var/www/html/catalog/');
