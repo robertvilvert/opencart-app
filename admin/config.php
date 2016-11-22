@@ -1,11 +1,11 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://YOURDOMAIN/admin/');
-define('HTTP_CATALOG', 'http://YOURDOMAIN/');
+define('HTTP_SERVER', 'http://loja.nextcloudservices.com/admin/');
+define('HTTP_CATALOG', 'http://loja.nextcloudservices.com/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://YOURDOMAIN/admin/');
-define('HTTPS_CATALOG', 'http://YOURDOMAIN/');
+define('HTTPS_SERVER', 'http://loja.nextcloudservices.com/admin/');
+define('HTTPS_CATALOG', 'http://loja.nextcloudservices.com/');
 
 // DIR
 define('DIR_APPLICATION', '/var/www/html/admin/');
